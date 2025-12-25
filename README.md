@@ -7,4 +7,6 @@ My final task documents included:
 - Dashboard Vizz (Looker Studio pdf)
 - File Presentation (pdf)
 
+Looker Dashboard: https://lookerstudio.google.com/reporting/2ff4ee18-5dc7-4ce9-990f-65b12caf9820
+
 #BusinessIntelligence #BIAnalyst #Excel #SQL #LookerStudio #DataVisualization #Dashboard
