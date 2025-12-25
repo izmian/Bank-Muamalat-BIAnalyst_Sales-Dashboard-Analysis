@@ -2,7 +2,7 @@
 This is a Project Based Internship by Bank Muamalat x Rakamin Academy (Batch December 2025)
 
 My final task documents included:
-- Primary Key and Querie of Master Table (SQL)
+- Primary Key and Queries of Master Table (SQL)
 - Master Table Dataset (csv)
 - Dashboard Vizz (Looker Studio pdf)
 - File Presentation (pdf)
